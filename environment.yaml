@@ -1,0 +1,19 @@
+name: jupyter
+channels:
+  - conda-forge
+dependencies:
+  - pip
+  - jupyterhub  
+  - jupyterlab
+  - oauthenticator
+  - requests
+  - tqdm
+  - scipy
+  - dask
+  - rasterio=1.2.6  
+  - ipykernel
+  - xarray_leaflet=0.1.15
+  - s3fs
+  - fsspec
+  - zarr
+  - pyproj
