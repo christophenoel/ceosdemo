@@ -8,4 +8,4 @@ You can run the code in this repository using Binder. Binder is a web-based serv
 
 To launch this repository on Binder, simply click on the following link:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/christophenoel/ceosdemo/github?labpath=TerraSAR-X%20Demo.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/christophenoel/ceosdemo.git/main?labpath=TerraSAR-X%20Demo.ipynb)
